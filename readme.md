@@ -7,7 +7,7 @@
 
 **`Digital Sculptor (Software Developer/AI Enthusiast)`**
 
-Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at [Florida International University](https://www.fiu.edu/). I've discovered my true passion in programming and AI. My academic journey so far has been focused on object oriented programming, web development, and AI applications like OpenAI's Whisper. Although, it's not my major, I also have an interest in embedded systems. I have conducted research though the National Science Foundation's Summer REU during Summer 2025. 
+Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at [Florida International University](https://www.fiu.edu/). I've discovered my true passion in programming and Machine Learning. My academic journey so far has been focused on object oriented programming, web development, and AI applications like OpenAI's Whisper. Although, it's not my major, I also have an interest in embedded systems. I have conducted research on Machine Learning though the National Science Foundation's Summer REU during Summer 2025. 
 
 ##  I'm a Student, Developer, and AI Enthusiast !! ##
 
