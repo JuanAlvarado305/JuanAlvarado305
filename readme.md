@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=1AF72E&width=435&lines=+I+am+a+HAL+9000+computer.;Welcome+to+Juan's+Profile...;He+is+open+to+internships...;Feel+free+to+connect+with+him...;on+Linkedin...;MESSAGE+TERMINATED+;ENTERING+MESSAGE+LOOP)](https://git.io/typing-svg)
 # 💽 Juan Alvarado 🤖
 
-**`Digital Sculptor (Software Developer/AI Enthusiast)`**
+**`Software Developer/AI Enthusiast`**
 
 Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at [Carnegie Mellon](https://www.cmu.edu/). I've discovered my true passion in programming and Machine Learning. My academic journey so far has been focused on object oriented programming, web development, and machine learning. Although, it's not my major, I also have an interest in embedded systems and mechanics. I have conducted research on Machine Learning though the National Science Foundation's Summer REU during Summer 2025. 
 
